@@ -1,4 +1,0 @@
-"hello dude"
-"what's up?"
-"how are you?"
-"actually learning git now"
